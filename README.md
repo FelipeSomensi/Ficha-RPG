@@ -1,4 +1,4 @@
-<h1>Ficha de personagens de RPF<h1>
+<h1>Ficha de personagens de RPF</h1>
 
 > Status: Em desenvolvimento
 
